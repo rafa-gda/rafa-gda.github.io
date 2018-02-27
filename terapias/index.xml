@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Terapias on AMP Psicología</title>
+    <link>http://www.ampsicologia.es/terapias/</link>
+    <description>Recent content in Terapias on AMP Psicología</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    
+	<atom:link href="http://www.ampsicologia.es/terapias/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Adultos</title>
+      <link>http://www.ampsicologia.es/terapias/adultos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ampsicologia.es/terapias/adultos/</guid>
+      <description>Existen múltiples motivos por los que cualquiera podemos necesitar la ayuda de un psicólogo:
+Una pérdida familiar, problemas de pareja, una mala época en el trabajo, estrés, ansiedad, depresión, adicciones, trastornos del sueño,… son sólo algunos ejemplos.
+¿Estás atravesando una época difícil? La ayuda de un psicólogo te ayudará a superarlo y a recuperar la felicidad.
+Todos necesitamos cambiar algunos aspectos de nuestra manera de ser o pensar, ya sea porque nos genera malestar o sufrimiento, porque nos hace sentir infelices o porque nos bloquea en determinados temas y pensamos que somos así o que la gente no cambia.</description>
+    </item>
+    
+    <item>
+      <title>Pareja</title>
+      <link>http://www.ampsicologia.es/terapias/pareja/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ampsicologia.es/terapias/pareja/</guid>
+      <description>Actualmente, las parejas suelen formarse a partir de una emoción que es el enamoramiento.
+El objetivo principal de la pareja es hacerse la vida agradable pero la emoción del enamoramiento puede ser pasajera y es necesaria para la continuidad positiva de la pareja una base de intimidad, compromiso, entrega, comunicación, resolución de conflictos y apoyo mutuo para llevar la relación de una manera agradable y sana.
+La pareja puede ser una fuente de bienestar o convertirse en una fuente de conflictos y malestar, si no se trata en el momento adecuado.</description>
+    </item>
+    
+    <item>
+      <title>Infantil/Adolescentes</title>
+      <link>http://www.ampsicologia.es/terapias/infantil/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ampsicologia.es/terapias/infantil/</guid>
+      <description>En la infancia es muy importante detectar características y rasgos de personalidad del niño/a que le dificulten su bienestar presente pero también que le permitan desarrollarse y vivir en plenitud en la época adolescente-adulta.
+Conviene concienciar e insistir en la mejora de habilidades, la estimulación de capacidades y el trabajo en las dificultades del niño para ayudarle a adquirir una buena autoestima y también recursos vitales, seguros de vida de todo tipo de sufrimientos emocionales posteriores.</description>
+    </item>
+    
+    <item>
+      <title>Familia</title>
+      <link>http://www.ampsicologia.es/terapias/familia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ampsicologia.es/terapias/familia/</guid>
+      <description>Su principal característica es que tiene muy en cuenta el contexto familiar en el que se sitúa un problema determinado.
+Entiende que los problemas, sean de tipo relacional o psicopatológicos, no sólo repercuten en la persona que los sufre sino también en las personas que están a su alrededor y las relaciones que se generan entre ellos.
+Además, y más importante todavía, el tratamiento psicológico desde el modelo de la terapia familiar se apoya en los recursos que la propia familia tiene a la hora de afrontar un problema, así trata de potenciarlos para conseguir un cambio que garantice una mayor calidad de vida para todos los miembros.</description>
+    </item>
+    
+    <item>
+      <title>Coaching</title>
+      <link>http://www.ampsicologia.es/terapias/coaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ampsicologia.es/terapias/coaching/</guid>
+      <description>El Coaching consiste en un proceso de acompañamiento individual personalizado y confidencial para conseguir resultados.
+Haciendo un paralelismo con una comadrona que facilita un parto, un nacimiento, un coach facilita un proceso de cambio que lleva a cabo el cliente.
+A través de conversaciones estructuradas con un profesional del coaching, la persona toma conciencia de la situación, los recursos, limitaciones y fortalezas, incrementando las alternativas y estrategias para conseguir el objetivo marcado, generando el compromiso y la acción necesarias para llegar al mismo.</description>
+    </item>
+    
+    <item>
+      <title>Informes Periciales</title>
+      <link>http://www.ampsicologia.es/terapias/informes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ampsicologia.es/terapias/informes/</guid>
+      <description>Inscrita en el Colegío Oficial de Psicólogos de Madrid en el listado de profesionales peritos, con una amplia experiencia en la realización de informes periciales dentro del ámbito del derecho de familia, penal, civil, y laboral.
+¿Que es un Informe pericial? &amp;ldquo;El informe pericial psicológico es un documento escrito, firmado y fechado en el que el perito psicológico expone sus consideraciones y conclusiones sobre los hechos objeto de evaluación.&amp;rdquo;</description>
+    </item>
+    
+  </channel>
+</rss>
